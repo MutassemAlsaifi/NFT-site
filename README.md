@@ -29,5 +29,3 @@ Contributions are highly appreciated! If you come across issues or have suggesti
 
 License
 This project is licensed under the MIT License. You're welcome to use and distribute the code as needed. While attribution is not mandatory, it's appreciated.
-
-Dive into the code, immerse yourself in the Front-End NFT Showcase, and discover the art of presenting digital collectibles in an enchanting way! For any inquiries or suggestions, feel free to open an issue. Enjoy the journey into the world of NFTs!
